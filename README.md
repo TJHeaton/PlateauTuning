@@ -9,7 +9,7 @@ Plateau tuning is a method proposed by Sarnthein et al. (2020) to create chronol
 The code is provided in R and consists of three files:
 
 1) PlateauMatchingFunctions.R - code to estimate the local gradient of the 14C data  
-2) SimulatedAtmosphericCores.R - code to create 3 simulated pseudo-atmospheric 14C cores and recreate Figs 6 and 6  
+2) SimulatedAtmosphericCores.R - code to create 3 simulated pseudo-atmospheric 14C cores and recreate Figs 5 and 6  
 3) 
 
 You will also need to download the three files:
