@@ -1,5 +1,4 @@
 # PlateauTuning
-Code to Test Plateau Tuning
 
 This folder will contain the R code used to test plateau tuning in the Climate of the Past paper:
 
