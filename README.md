@@ -10,13 +10,12 @@ The code is provided in R and consists of three files:
 
 1) PlateauMatchingFunctions.R - code to estimate the local gradient of the 14C data  
 2) SimulatedAtmosphericCores.R - code to create 3 simulated pseudo-atmospheric 14C cores and recreate Figs 5 and 6  
-3) 
+3) SimulatedMarineCores - code to create 2 simulated pseudo-marine 14C cores and recreate Fig 7 
 
 You will also need to download the three files:
 
 1) IntCal20TreeRing.csv - pointwise estimate of the tree-ring based section of IntCal20 
 2) Suigetsu2013.csv - Lake Suigetsu 14C data 
-3) 
-
+3) Cariaco2013Raw.csv - Cariaco 14C data
 
 We will also provide a DOI for this code with the paper
