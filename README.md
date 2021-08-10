@@ -10,7 +10,7 @@ The code is provided in R and consists of three files:
 
 1) PlateauMatchingFunctions.R - code to estimate the local gradient of the 14C data  
 2) SimulatedAtmosphericCores.R - code to create 3 simulated pseudo-atmospheric 14C cores and recreate Figs 5 and 6  
-3) SimulatedMarineCores - code to create 2 simulated pseudo-marine 14C cores and recreate Fig 7 
+3) SimulatedMarineCores.R - code to create 2 simulated pseudo-marine 14C cores and recreate Fig 7 
 
 You will also need to download the three files:
 
