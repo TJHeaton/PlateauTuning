@@ -66,7 +66,7 @@ TestGradC <- sapply(range[1]:range[2], function(x)
 
 # Change plotting layout to allow 4 graphs on single plot 
 par(mfrow = c(2,2), mar = c(5, 6, 4, 4.5) + 0.1, las = 1, mgp = c(3.5, 1, 0))
-# CHoose suitable range for y-axis for plots
+# Choose suitable range for y-axis for plots
 yplotrange <- approx(x = calcurve[,1], y = calcurve[,2], xout = range)$y + (3 * max(Suigobssd) * c(-1, 1)) + c(-700, 0)
 
 
