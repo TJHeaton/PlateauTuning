@@ -18,4 +18,4 @@ You will also need to download the three files:
 2) Suigetsu2013.csv - Lake Suigetsu 14C data 
 3) Cariaco2013Raw.csv - Cariaco 14C data
 
-We will also provide a DOI for this code with the paper
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5176137.svg)](https://doi.org/10.5281/zenodo.5176137)
